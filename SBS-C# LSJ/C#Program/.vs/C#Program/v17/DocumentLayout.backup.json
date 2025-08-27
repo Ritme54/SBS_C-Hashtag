@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\sbs-c--\\SBS-C# LSJ\\C#Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1CC6D5-D7EC-49DB-8A4C-AEE0814D44BD}|C#Program.csproj|c:\\users\\administrator\\desktop\\sbs-c--\\sbs-c# lsj\\c#program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1CC6D5-D7EC-49DB-8A4C-AEE0814D44BD}|C#Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90649EF0-1931-440E-B37E-377B533DF209}|..\\Collection(Class2th)\\Collection(Class2th).csproj|c:\\users\\administrator\\desktop\\sbs-c--\\sbs-c# lsj\\collection(class2th)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C51F1E-1CF9-45FC-8418-78047C4911B1}|..\\Grammar(Class1th)\\Grammar(Class1th).csproj|c:\\users\\administrator\\desktop\\sbs-c--\\sbs-c# lsj\\grammar(class1th)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C51F1E-1CF9-45FC-8418-78047C4911B1}|..\\Grammar(Class1th)\\Grammar(Class1th).csproj|c:\\users\\administrator\\desktop\\sbs-c--\\sbs-c# lsj\\grammar(class1th)\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-c--\\SBS-C# LSJ\\Collection(Class2th)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Collection(Class2th)\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-c--\\SBS-C# LSJ\\Collection(Class2th)\\Program.cs",
+              "RelativeToolTip": "..\\Collection(Class2th)\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:21:01.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-c--\\SBS-C# LSJ\\Grammar(Class1th)\\Utility.cs",
+              "RelativeDocumentMoniker": "..\\Grammar(Class1th)\\Utility.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-c--\\SBS-C# LSJ\\Grammar(Class1th)\\Utility.cs",
+              "RelativeToolTip": "..\\Grammar(Class1th)\\Utility.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T06:19:31.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-c--\\SBS-C# LSJ\\Grammar(Class1th)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Grammar(Class1th)\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-c--\\SBS-C# LSJ\\Grammar(Class1th)\\Program.cs",
+              "RelativeToolTip": "..\\Grammar(Class1th)\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T05:16:56.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-c--\\SBS-C# LSJ\\C#Program\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-c--\\SBS-C# LSJ\\C#Program\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:42:39.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
