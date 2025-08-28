@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\Interface(Class3th)\bin\Debug\net8.0\Interface(Class3th).exe
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\Interface(Class3th)\bin\Debug\net8.0\Interface(Class3th).deps.json
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\Interface(Class3th)\bin\Debug\net8.0\Interface(Class3th).runtimeconfig.json
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\Interface(Class3th)\bin\Debug\net8.0\Interface(Class3th).dll
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\Interface(Class3th)\bin\Debug\net8.0\Interface(Class3th).pdb
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\Interface(Class3th)\obj\Debug\net8.0\Interface(Class3th).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\Interface(Class3th)\obj\Debug\net8.0\Interface(Class3th).AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\Interface(Class3th)\obj\Debug\net8.0\Interface(Class3th).AssemblyInfo.cs
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\Interface(Class3th)\obj\Debug\net8.0\Interface(Class3th).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\Interface(Class3th)\obj\Debug\net8.0\Interface(Class3th).sourcelink.json
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\Interface(Class3th)\obj\Debug\net8.0\Interface(Class3th).dll
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\Interface(Class3th)\obj\Debug\net8.0\refint\Interface(Class3th).dll
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\Interface(Class3th)\obj\Debug\net8.0\Interface(Class3th).pdb
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\Interface(Class3th)\obj\Debug\net8.0\Interface(Class3th).genruntimeconfig.cache
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\Interface(Class3th)\obj\Debug\net8.0\ref\Interface(Class3th).dll

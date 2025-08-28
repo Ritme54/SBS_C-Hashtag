@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Net.Mime.MediaTypeNames;
-using static C_Program.GunAction;
+using static Program.GunAction;
 
-namespace C_Program
+namespace Program
 {
     internal class Shotgun : Weapon, IReloadable, IMeleeAttack
     {

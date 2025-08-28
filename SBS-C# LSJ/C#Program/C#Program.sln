@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grammar(Class1th)", "..\Gra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection(Class2th)", "..\Collection(Class2th)\Collection(Class2th).csproj", "{90649EF0-1931-440E-B37E-377B533DF209}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface(Class3th)", "..\Interface(Class3th)\Interface(Class3th).csproj", "{E5666AF8-E6A0-474C-8F43-3A15789428C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{90649EF0-1931-440E-B37E-377B533DF209}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90649EF0-1931-440E-B37E-377B533DF209}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90649EF0-1931-440E-B37E-377B533DF209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5666AF8-E6A0-474C-8F43-3A15789428C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5666AF8-E6A0-474C-8F43-3A15789428C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5666AF8-E6A0-474C-8F43-3A15789428C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5666AF8-E6A0-474C-8F43-3A15789428C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
