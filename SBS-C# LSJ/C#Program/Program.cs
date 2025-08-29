@@ -47,12 +47,22 @@ namespace C_Program
 
             //소프트웨어의 구성 요소는 확장에는 열려 있어야 하고 변경에는 닫혀 있어야 한다.
 
-            Incentive enchant  = new Incentive();
+            //Enchant enchant = new Enchant();
+            //enchant.Enchanc(new Sword());
 
-            enchant.Enchant(new Item("Sword", 10, 5, 1));
-            enchant.Enchant(new Item("Necklace", 1, 1, 10));
-            enchant.Enchant(new Item("Shoes", 0, 20, 0));
 
+            // enchant.Enchant(new Item("Sword", 10, 5, 1));
+            // enchant.Enchant(new Item("Necklace", 1, 1, 10));
+            // enchant.Enchant(new Item("Shoes", 0, 20, 0));
+
+
+            #endregion
+
+            #region 인터페이스 분리 원칙
+            //
+
+            VIP vip = new VIP();
+            vip.Move();
 
 
             #endregion

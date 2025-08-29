@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\연습장1\bin\Debug\net8.0\연습장1.exe
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\연습장1\bin\Debug\net8.0\연습장1.deps.json
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\연습장1\bin\Debug\net8.0\연습장1.runtimeconfig.json
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\연습장1\bin\Debug\net8.0\연습장1.dll
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\연습장1\bin\Debug\net8.0\연습장1.pdb
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\연습장1\obj\Debug\net8.0\연습장1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\연습장1\obj\Debug\net8.0\연습장1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\연습장1\obj\Debug\net8.0\연습장1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\연습장1\obj\Debug\net8.0\연습장1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\연습장1\obj\Debug\net8.0\연습장1.sourcelink.json
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\연습장1\obj\Debug\net8.0\연습장1.dll
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\연습장1\obj\Debug\net8.0\refint\연습장1.dll
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\연습장1\obj\Debug\net8.0\연습장1.pdb
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\연습장1\obj\Debug\net8.0\연습장1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\sbs-c--\SBS_C-Hashtag\SBS-C# LSJ\연습장1\obj\Debug\net8.0\ref\연습장1.dll

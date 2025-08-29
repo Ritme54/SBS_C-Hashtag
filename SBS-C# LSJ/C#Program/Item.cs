@@ -8,19 +8,31 @@ namespace C_Program
 {
     internal class Item
     {
-        private string name;
+        protected string name;
 
-        private int Strength;
-        private int Agility;
-        private int Intelligence;
+        protected int Strength;
+        protected int Agility;
+        protected int Intelligence;
 
         public string Name { get { return name; } }
 
-        public int strength { set { strength = value; } }
+        public int strength 
+        {
+            get { return Strength; }
+            set { Strength = value; } 
+        }
 
-        public int agility { set { agility = value; } }
+        public int agility 
+        {
+            get { return Agility; }
+            set { Agility = value; } 
+        }
 
-        public int intelligence { set { intelligence = value; } }
+        public int intelligence 
+        {
+            get { return Intelligence; }    
+            set { Intelligence = value; }
+        }
 
 
         public Item(string name, int strength, int agility, int intelligence)
